@@ -1,0 +1,30 @@
+{
+  "positions": [
+    {
+      "positionId": "position-31",
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "productId": "product-1",
+      "quantity": 13
+    },
+    {
+      "positionId": "position-449",
+      "x": 87,
+      "y": 7,
+      "z": 100,
+      "productId": "product-1",
+      "quantity": 4
+    }
+  ],
+  "positions2": [
+    {
+      "positionId": "position-50",
+      "x": 10,
+      "y": 5,
+      "z": 0,
+      "productId": "product-2",
+      "quantity": 10
+    }
+  ]
+}
